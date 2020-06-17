@@ -61,6 +61,7 @@ class DrumMachine extends React.Component {
         <DrumPad text="Z" src="https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3" />
         <DrumPad text="X" src="https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3" />
         <DrumPad text="C" src="https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3" />
+        <div id="display"></div>
       </div>
     )
   }
